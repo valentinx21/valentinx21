@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey, I'm ValentinX
 
-<!--
-**valentinx21/valentinx21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧭 Web3 testnet explorer | Web3 quester | XP collector  
+🌐 Multichain native · Based in 🇺🇦
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Currently testing:
+- Fogo, Pyron, Starknet, ZetaChain  
+- LayerZero, Celestia, zkSync, and more
+
+### 🧬 Active on:
+- [Twitter / X](https://x.com/bGquXrEvLbDiqJV)  
+- Zealy, Galxe, Layer3  
+- Snapshot, GitHub
+
+---
+
+📡 Onchain spirit.  
+Don't fade — accumulate XP.
